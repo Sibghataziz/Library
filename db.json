@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "image_url": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE=",
+      "book_name": "b",
+      "author": "c",
+      "genre": "Business",
+      "edition": 2021,
+      "publisher": "d",
+      "cost": "0123",
+      "borrowed": true,
+      "id": 2,
+      "data": {
+        "image_url": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE=",
+        "book_name": "b",
+        "author": "c",
+        "genre": "Business",
+        "edition": 2021,
+        "publisher": "d",
+        "cost": "0123",
+        "borrowed": false,
+        "id": 2
+      }
+    },
+    {
+      "image_url": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE=",
+      "book_name": "a",
+      "author": "b",
+      "genre": "History",
+      "edition": 2021,
+      "publisher": "c",
+      "cost": "0123",
+      "borrowed": true,
+      "id": 1,
+      "data": {
+        "image_url": "https://media.istockphoto.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=0&k=20&c=ZxSsWKNcVpEzrJ3_kxAUuhBCT3P_dfnmJ81JegPD8eE=",
+        "book_name": "a",
+        "author": "b",
+        "genre": "History",
+        "edition": 2021,
+        "publisher": "c",
+        "cost": "0123",
+        "borrowed": false,
+        "id": 1
+      }
+    }
+  ],
+  "users": [
+    {
+      "email": "sibghat.aziz98@gmail.com",
+      "password": "123456789",
+      "name": "Md Sibghat Aziz",
+      "id": 1
+    }
+  ]
+}
